@@ -1,0 +1,6 @@
+
+def xcodeproj = 'Jenkins iOS iOSSample.xcodeproj'
+def xcarchive_name = "Jenkins iOS iOSSample.xcarchive" 
+def build_scheme = 'Jenkins iOS Example' 
+def test_scheme = 'Jenkins iOS Example'
+def simulator_device = 'iPhone 7'
